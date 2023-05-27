@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: pink;
+
+}
+
+.heading {
+    text-align:center;
+    font-size: 2rem;
+}
+
+.mein {
+    width:600px;
+    height:600px;
+    border: 1 px solid black; margin: 2 rem auto;
+}
